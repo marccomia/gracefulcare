@@ -1,0 +1,36 @@
+
+.rounded {
+  border-radius: 10px;
+  background: #000; // without a background or border applied you won't be able to see if its rounded
+}
+
+section.padding-10{
+  padding: 50px;
+  border-color: #ffffff;
+  border-style: solid;
+}
+
+
+div.qoute-section-post p{
+  font-size: 50px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.bigfont-size-link{
+  font-size: 50px;
+  color: #ffff;
+}
+a:hover.bigfont-size-link{
+  font-size: 50px;
+  color: rgb(101, 29, 50);
+}
+
+.text-overflow{
+   height: 310px;
+   overflow: hidden;
+}
+
+.media-left{
+  padding-right: 45px;
+}
