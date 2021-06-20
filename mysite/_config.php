@@ -8,7 +8,7 @@ $databaseConfig = array(
 	'type' => 'MySQLDatabase',
 	'server' => 'localhost',
 	'username' => 'ss_gracefulcare',
-	'password' => 'Dapx55~4',
+	'password' => 'xxxx',
 	'database' => 'ss_gracefulcare',
 	'path' => ''
 );
